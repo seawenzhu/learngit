@@ -1,1 +1,2 @@
-This is test file for git
+Change this line, This is test file for git
+This is new line
